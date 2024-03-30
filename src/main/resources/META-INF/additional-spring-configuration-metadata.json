@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "api.version",
+    "type": "java.lang.String",
+    "description": "API version"
+  },
+  {
+    "name": "api.url",
+    "type": "java.lang.String",
+    "description": "API url"
+  }
+]}
